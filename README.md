@@ -1,10 +1,10 @@
 # Peter Izzard Photography: Website Study
 
-**A self-directed website study for Peter Izzard Photography, with page ideas, implementation material and review notes. The demo does not imply a commission or endorsement.**
+**Research and planning notes for a self-directed website study of Peter Izzard Photography. This snapshot does not include UI implementation files and does not imply a commission or endorsement.**
 
 ## What you will find
 
-A small-business website design study: the page work, supporting notes and revision context that were available in the original project. A self-directed demo is not a record of client acceptance.
+Research, planning or review notes for a small-business website study. This public copy does not contain the UI implementation, so it should be read as planning material rather than a runnable website demo.
 
 ## Start here
 
